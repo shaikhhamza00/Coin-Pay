@@ -17,35 +17,31 @@ Here are some screenshots showcasing the features and design of CoinPay:
 ### Splash Screen
 ![Splah Screen](https://github.com/shaikhhamza00/Coin-Pay/blob/main/Screenshot/Splash%20Screen.jpg)
 
-### Expense Tracking
-![Expense Tracking](path/to/expense_tracking.png)
+### On-boarding Tracking
+![On-boarding Screen 1](https://github.com/shaikhhamza00/Coin-Pay/blob/main/Screenshot/On-boarding%20Screen%201.jpg)
+![On-boarding Screen 2](https://github.com/shaikhhamza00/Coin-Pay/blob/main/Screenshot/On-boarding%20Screen%202.jpg)
+![On-boarding Screen 3](https://github.com/shaikhhamza00/Coin-Pay/blob/main/Screenshot/On-boarding%20Screen%203.jpg)
 
-### Income Tracking
-![Income Tracking](path/to/income_tracking.png)
-
-### Analytics Overview
-![Analytics Overview](path/to/analytics_overview.png)
-
-### Expense Details
-![Expense Details](path/to/expense_details.png)
-
-### Income Details
-![Income Details](path/to/income_details.png)
-
-### Add Expense
-![Add Expense](path/to/add_expense.png)
-
-### Add Income
-![Add Income](path/to/add_income.png)
-
-### Settings
-![Settings](path/to/settings.png)
-
-### Profile
-![Profile](path/to/profile.png)
+### Login/Signup Screen
+![Login/Signup Screen](https://github.com/shaikhhamza00/Coin-Pay/blob/main/Screenshot/LoginSignup.jpg)
 
 ### Login Screen
-![Login Screen](path/to/login_screen.png)
+![Login Screen](https://github.com/shaikhhamza00/Coin-Pay/blob/main/Screenshot/Login%20Screen.jpg)
+
+### Signup Screen
+![Signup Screen](https://github.com/shaikhhamza00/Coin-Pay/blob/main/Screenshot/Singup%20Screen.jpg)
+
+### Successful Account Creation
+![Account Created](https://github.com/shaikhhamza00/Coin-Pay/blob/main/Screenshot/Account%20creation.jpg)
+
+### Home Screen
+![Home Screen](https://github.com/shaikhhamza00/Coin-Pay/blob/main/Screenshot/Home%20Screen.jpg)
+
+### Transactions Detail
+![Transactions Detail](https://github.com/shaikhhamza00/Coin-Pay/blob/main/Screenshot/Transactions%20Details.jpg)
+
+### Make A Transaction
+![transaction](https://github.com/shaikhhamza00/Coin-Pay/blob/main/Screenshot/Make%20A%20Transaction.jpg)
 
 ## Technologies Used
 
@@ -59,7 +55,7 @@ To get started with CoinPay, follow these steps:
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/coinpay.git
+    git clone https://github.com/shaikhhamza00/coinpay.git
     ```
 2. Open the project in Android Studio.
 3. Set up Firebase by adding your `google-services.json` file to the `app` directory.
@@ -69,10 +65,7 @@ To get started with CoinPay, follow these steps:
 
 Contributions are welcome! If you have any ideas, suggestions, or bug reports, please create an issue or submit a pull request.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
-If you have any questions or feedback, feel free to reach out at your-email@example.com.
+If you have any questions or feedback, feel free to reach out at mhdhamza.dev@gmail.com.
