@@ -15,7 +15,8 @@ CoinPay is a finance management tracking app developed using Jetpack Compose and
 Here are some screenshots showcasing the features and design of CoinPay:
 
 ### Home Screen
-![Home Screen](screenshots/Home Screen.png)
+![Home Screen](Screenshot/Home Screen.png)
+
 
 ### Expense Tracking
 ![Expense Tracking](path/to/expense_tracking.png)
