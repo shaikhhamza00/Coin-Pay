@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Coin Pay</string>
+    <string name="title_activity_animated_splash_screen">AnimatedSplashScreen</string>
+    <string name="title_activity_onboarding_screen">OnboardingScreen</string>
+    <string name="title_activity_signup">Signup</string>
+    <string name="title_activity_login_screen">LoginScreen</string>
+    <string name="title_activity_home">Home</string>
+    <string name="title_activity_transactions_details">TransactionsDetails</string>
+    <string name="title_activity_common_scaffold">CommonScaffold</string>
+    <string name="title_activity_transaction">Transaction</string>
+</resources>

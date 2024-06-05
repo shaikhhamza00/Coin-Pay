@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "570926353362",
+    "project_id": "coin-pay-e7df6",
+    "storage_bucket": "coin-pay-e7df6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:570926353362:android:5c798965c292ac69dad60b",
+        "android_client_info": {
+          "package_name": "com.example.coinpay"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxNe-JsSkWBxH2h7qxeX43epkOhzGkSkA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
